@@ -29,9 +29,11 @@ const Reservation = () => {
                 Experience the perfect blend of ambiance and culinary delight. Reserve your table now and indulge in a memorable dining experience at our restaurant.
             </p>
           </div>
+          <a href="/Contact">
           <button className="mt-8 md:mt-0 bg-[#d18a44] text-black text-lg tracking-widest font-semibold py-4 px-10 uppercase hover:brightness-110 transition">
             Make a Reservation
           </button>
+          </a>
         </div>
       </div>
     </div>
