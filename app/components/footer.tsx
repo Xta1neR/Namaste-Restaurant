@@ -61,8 +61,8 @@ const Footer = () => {
         </nav>
         <p className="text-xs text-[#f9f9f9]">
           @ 2025 Namaste Authentic Indian Cuisine. All rights reserved.
-          <a className="text-[#130f0c] hover:text-amber-100" href="#">
-            <br />Developed by <a href="https://www.riturajportfolio.live/">Rituraj Goswami</a>
+          <a className="text-[#130f0c] hover:text-amber-100" href="https://www.riturajportfolio.live/">
+            <br />Developed by Rituraj Goswami
           </a>
         </p>
       </div>
