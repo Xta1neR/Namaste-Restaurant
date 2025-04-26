@@ -6,6 +6,8 @@ import Quote from "./components/quote";
 import Quote2 from "./components/quote2";
 import Story from "./components/story";
 import MenuSelection from "./components/menuSelection";
+import Reservation from "./components/reservation";
+import Footer from "./components/footer";
 
 
 export default function Home() {
@@ -19,6 +21,8 @@ export default function Home() {
       <Quality />
       <Quote2 />
       <MenuSelection />
+      <Reservation />
+      <Footer />
     </div>
   );
 }

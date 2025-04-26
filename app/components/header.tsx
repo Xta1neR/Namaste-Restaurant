@@ -46,7 +46,7 @@ const Header = () => {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-            <div className='md:hidden absolute top-24 left-0 w-full bg-black/50 shadow-lg p-4'>
+            <div className='md:hidden absolute top-24 left-0 w-full bg-black rounded-b-2xl p-8 shadow-lg'>
                 <ul className='flex flex-col gap-4 text-md font-semibold'>
                     <li className='hover:text-orange-200/80 uppercase pt-1'><a href="./">Home</a></li>
                     <li className='hover:text-orange-200/80 uppercase pt-1'><a href="#aboutus">About</a></li>
