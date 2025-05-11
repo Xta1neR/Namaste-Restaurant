@@ -1,4 +1,4 @@
-import { faClock, faLocationDot, faMessage, faPhone } from "@fortawesome/free-solid-svg-icons";
+import { faClock, faLocationDot, faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Image from "next/image";
 import React from "react";
