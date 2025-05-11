@@ -21,19 +21,19 @@ const Footer = () => {
             <a href="tel:+17784895044">+1 778-489-5044</a>
           </div>
         </div>
-        <div className="flex items-center space-x-3 max-w-xs">
+        {/* <div className="flex items-center space-x-3 max-w-xs">
           <FontAwesomeIcon icon={faMessage} className="size-8 text-[#d17e2a]" />
           <div className="text-[#f9f9f9] text-sm leading-6">
             <p>Reservation@sovy.com</p>
             <p>Books@sovy.com</p>
           </div>
-        </div>
+        </div> */}
         <div className="flex items-center space-x-3 max-w-xs">
             <FontAwesomeIcon icon={faClock} className="size-8 text-[#d17e2a]" />
           <div className="text-[#f9f9f9] text-sm leading-6">
-            <p>Open 11:00 am Wednesday to Monday</p>
-            <p>Closes 09:00 pm Wednesday to Monday</p>
-            <p>Closed on Tuesdays</p>
+            <p>Open 11:00 am Everyday</p>
+            <p>Closes 09:00 pm Everyday</p>
+            {/* <p>Closed on Tuesdays</p> */}
           </div>
         </div>
       </div>

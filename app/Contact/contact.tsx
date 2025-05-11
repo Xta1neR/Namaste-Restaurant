@@ -37,19 +37,12 @@ const Contact = () => {
                   <p>+1 778-489-5044</p>
                 </div>
               </div>
-              <div className="flex gap-4 items-start">
-                <i className="fas fa-envelope fa-lg text-[#e0b172] mt-1"></i>
-                <div className="text-[#e0b172] text-sm leading-relaxed space-y-1">
-                  <p>Reservation@sovy.com</p>
-                  <p>Books@sovy.com</p>
-                </div>
-              </div>
+              
               <div className="flex gap-4 items-start">
                 <i className="far fa-clock fa-lg text-[#e0b172] mt-1"></i>
                 <div className="text-[#e0b172] text-sm leading-relaxed space-y-1">
                   <p>
-                    Open 11:00 am Wednesday to Monday Closes 09:00 pm Wednesday
-                    to Monday Closed on Tuesdays
+                    <strong>Opens at</strong> 11:00 am Everyday and <strong>Closes at</strong> 09:00 pm Everyday.
                   </p>
                 </div>
               </div>

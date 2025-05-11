@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Namaste Authentic Indian Cuisine",
-  description: "Authentic Indian Cuisine in the Heart of the City",
+  description: "Namaste Salmon Arm. 200 Trans anada Highway SW Salmon Arm, B.C. V1E 4H7. +1 778-489-5044 · View menu. Namaste Salmon Arm Opening Hours. Hour of operation",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",

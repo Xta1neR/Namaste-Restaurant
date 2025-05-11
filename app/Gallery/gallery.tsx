@@ -7,6 +7,49 @@ const Gallery = () => {
     <div className="bg-black p-4">
       <div className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300"
+          height={400}
+          width={600}
+          src="/gallery1.jpg"
+        />
+        <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300"
+          height={400}
+          width={600}
+          src="/gallery2.jpg"
+        />
+        <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300"
+          height={400}
+          width={600}
+          src="/gallery3.jpg"
+        />
+        <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300"
+          height={400}
+          width={600}
+          src="/gallery4.jpg"
+        />
+        <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300"
+          height={400}
+          width={600}
+          src="/gallery5.jpg"
+        />
+        <Image
+          alt="Close-up of grilled chicken with spices on a black plate with a fork and knife on the side"
+          className="w-full object-cover hover:scale-105 transition-transform duration-300 h-72"
+          height={400}
+          width={600}
+          src="/gallery6.jpg"
+        />
+        
+        <Image
           alt="Close-up of cooked steak on a black stone surface with rosemary and a wooden tray in the background"
           className="w-full object-cover hover:scale-105 transition-transform duration-300"
           height={400}

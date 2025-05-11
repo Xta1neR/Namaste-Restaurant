@@ -21,6 +21,12 @@ import ExtrasSection from "./extrasSection";
 const Menu = () => {
   return (
     <div>
+      <div className="max-w-7xl mx-auto px-6 py-10">
+        <h1 className="text-4xl md:text-5xl font-extrabold text-[#d18a44] text-center mb-8">
+          Order Your Favorite Dishes
+        </h1>
+        
+      </div>
       {/* ----------------- Appetizers ---------------- */}
       <AppetizersSection />
 

@@ -3,6 +3,7 @@ import Header from '../components/header'
 import Footer from '../components/footer'
 import Hero from './hero'
 import Contact from './contact'
+import Reservation from '../components/reservation'
 
 function page() {
   return (
@@ -10,6 +11,7 @@ function page() {
       <Header />
       <Hero />
       <Contact />
+      <Reservation />
       <Footer />
     </div>
   )
