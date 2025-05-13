@@ -28,6 +28,7 @@ const Hero = () => {
             Explore Menu
           </button>
         </a>
+        <br />
         <a
           href="https://www.qooway.com/OLO/m-en?NamasteSalmonArm"
           target="_blank"
