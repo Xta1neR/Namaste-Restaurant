@@ -16,7 +16,7 @@ const appetizersLeftColumn: Appetizer[] = [
     title: "Vegetable Samosas",
     price: "$6.95",
     description: "Two savoury triangular pastries filled with spiced potatoes & peas. Served with tamarind chutney.",
-    imageSrc: "/images/vegitable Samosa.jpg",
+    imageSrc: "/images/Vegitable-Samosa.jpg",
     imageAlt: "Vegetable Samosas",
   },
   {
