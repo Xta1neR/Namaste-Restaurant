@@ -13,7 +13,7 @@ import PopupNotice from "./components/PopupNotice";
 
 export default function Home() {
   return (
-    <div className="bg-[#130f0c]">
+    <div className="bg-[#130f0c] overflow-x-clip">
       <PopupNotice />
       <Header />
       <Hero />
