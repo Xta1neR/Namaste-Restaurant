@@ -45,14 +45,14 @@ const indoChineseLeftColumn: IndoChineseDish[] = [
     title: "Chilli Paneer (Dry/Gravy)",
     price: "$17.95",
     description: "Pieces of paneer prepared with onion and bell pepper, blended with Chinese sauce.",
-    imageSrc: "/images/Chilly Paneer.jpg", // Replace with your image URL
+    imageSrc: "/images/chilli-paneer.jpg", // Replace with your image URL
     imageAlt: "Chilli Paneer",
   },
   {
     title: "Chilli Prawn (Dry/Gravy)",
     price: "$17.95",
     description: "Prawn prepared with onion and bell pepper, blended with Chinese sauce.",
-    imageSrc: "/images/chilli-prawn.jpg", // Replace with your image URL
+    imageSrc: "/images/chilli-prawns.jpeg", // Replace with your image URL
     imageAlt: "Chilli Prawn",
   },
   {
@@ -76,21 +76,21 @@ const indoChineseRightColumn: IndoChineseDish[] = [
     title: "Veg Fried Rice",
     price: "$14.95",
     description: "Cooked rice stir-fry with vegetables and Chinese sauce.",
-    imageSrc: "/images/veg-fried-rice.jpg", // Replace with your image URL
+    imageSrc: "/images/veg-fried-rice.jpeg", // Replace with your image URL
     imageAlt: "Veg Fried Rice",
   },
   {
     title: "Chicken Fried Rice",
     price: "$15.95",
     description: "Cooked rice stir-fry with chicken and Chinese sauce.",
-    imageSrc: "/images/chicken-fried-rice.jpg", // Replace with your image URL
+    imageSrc: "/images/chicken-fried-rice.webp", // Replace with your image URL
     imageAlt: "Chicken Fried Rice",
   },
   {
     title: "Prawn Fried Rice",
     price: "$16.95",
     description: "Cooked rice stir-fry with Prawn and Chinese sauce.",
-    imageSrc: "/images/prawn-fried-rice.jpg", // Replace with your image URL
+    imageSrc: "/images/prawn-fried-rice.jpeg", // Replace with your image URL
     imageAlt: "Prawn Fried Rice",
   },
 ];

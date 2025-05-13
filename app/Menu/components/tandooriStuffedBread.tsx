@@ -17,14 +17,14 @@ const tandooriStuffedBreadsLeftColumn: TandooriStuffedBread[] = [
     title: "Cheese & Spinach Naan",
     price: "$6.95",
     description: "Naan bread stuffed with chopped spinach, cheese & grated Indian cheese.",
-    imageSrc: "/images/cheese-spinach-naan.jpg", // Replace with your image URL
+    imageSrc: "/images/cheese-spinach-naan.jpeg", // Replace with your image URL
     imageAlt: "Cheese & Spinach Naan",
   },
   {
     title: "Peshawari Naan",
     price: "$6.95",
     description: "Naan bread stuffed with shredded coconut, raisins & cashews.",
-    imageSrc: "/images/peshawari-naan.jpg", // Replace with your image URL
+    imageSrc: "/images/peshawari-naan.jpeg", // Replace with your image URL
     imageAlt: "Peshawari Naan",
   },
   {
@@ -48,7 +48,7 @@ const tandooriStuffedBreadsRightColumn: TandooriStuffedBread[] = [
     title: "Aloo Parantha",
     price: "$5.00",
     description: "Whole wheat bread stuffed with potatoes and authentic spices.",
-    imageSrc: "/images/aloo-parantha.jpg", // Replace with your image URL
+    imageSrc: "/images/aloo-parantha.jpeg", // Replace with your image URL
     imageAlt: "Aloo Parantha",
   },
 ];

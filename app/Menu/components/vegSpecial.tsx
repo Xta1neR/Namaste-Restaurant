@@ -52,14 +52,14 @@ const vegetarianLeftColumn: VegetarianSpecialty[] = [
     title: "Vegetable Mango Curry",
     price: "$15.95",
     description: "Fresh vegetables cooked in mango sauce & exotic spices.",
-    imageSrc: "/images/vegetable-mango-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/vegetable-mango-curry.webp", // Replace with your image URL
     imageAlt: "Vegetable Mango Curry",
   },
   {
     title: "Green Vegetable Curry",
     price: "$15.95",
     description: "Seasonal vegetables cooked with a fine paste of broccoli, mint, spinach, cilantro, green pepper & herbs.",
-    imageSrc: "/images/green-vegetable-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/green-vegetable-curry.jpeg", // Replace with your image URL
     imageAlt: "Green Vegetable Curry",
   },
 ];
@@ -69,7 +69,7 @@ const vegetarianRightColumn: VegetarianSpecialty[] = [
     title: "Dal Makhani",
     price: "$15.95",
     description: "Lentils cooked in garlic onions aromatic spices & tempered with butter.",
-    imageSrc: "/images/dal-makhani.jpg", // Replace with your image URL
+    imageSrc: "/images/dal-makhani.webp", // Replace with your image URL
     imageAlt: "Dal Makhani",
   },
   {
@@ -83,7 +83,7 @@ const vegetarianRightColumn: VegetarianSpecialty[] = [
     title: "Malai Kofta",
     price: "$16.95",
     description: "Grated Indian cheese dumplings cooked in creamy onion sauce.",
-    imageSrc: "/images/malai-kofta.jpg", // Replace with your image URL
+    imageSrc: "/images/malai-kofta.jpeg", // Replace with your image URL
     imageAlt: "Malai Kofta",
   },
   {
@@ -97,14 +97,14 @@ const vegetarianRightColumn: VegetarianSpecialty[] = [
     title: "Vegetable Coconut Curry",
     price: "$15.95",
     description: "Fresh vegetables cooked in coconut cream and royal spices.",
-    imageSrc: "/images/vegetable-coconut-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/vegetable-coconut-curry.jpeg", // Replace with your image URL
     imageAlt: "Vegetable Coconut Curry",
   },
   {
     title: "Vegetable Shahi Korma",
     price: "$16.95",
     description: "Mixed vegetables delic ately cooked in a seasoned, creamy sauce with onion & cashews.",
-    imageSrc: "/images/vegetable-shahi-korma.jpg", // Replace with your image URL
+    imageSrc: "/images/vegetable-shahi-korma.jpeg", // Replace with your image URL
     imageAlt: "Vegetable Shahi Korma",
   },
   {

@@ -31,7 +31,7 @@ const sideDishes: SideDish[] = [
     title: "Steamed Rice (small/full)",
     price: "$2.25 / $3.50",
     description: "Fluffy steamed basmati rice.",
-    imageSrc: "/images/steamed-rice.jpg", // Replace with your image URL
+    imageSrc: "/rice-plate.png", // Replace with your image URL
     imageAlt: "Steamed Rice",
   },
   {

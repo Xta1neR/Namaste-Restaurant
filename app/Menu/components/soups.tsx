@@ -31,7 +31,7 @@ const soupsLeftColumn: Soup[] = [
     title: "Cream of Chicken Soup",
     price: "$6.95",
     description: "",
-    imageSrc: "/images/cream-of-chicken-soup.jpg", // Replace with your image URL
+    imageSrc: "/images/cream-of-chicken-soup.jpeg", // Replace with your image URL
     imageAlt: "Cream of Chicken Soup",
   },
 ];
@@ -41,7 +41,7 @@ const soupsRightColumn: Soup[] = [
     title: "Lentil Soup",
     price: "$5.95",
     description: "",
-    imageSrc: "/images/lentil-soup.jpg", // Replace with your image URL
+    imageSrc: "/images/lentil-soup.jpeg", // Replace with your image URL
     imageAlt: "Lentil Soup",
   },
   {
@@ -55,7 +55,7 @@ const soupsRightColumn: Soup[] = [
     title: "Namaste Special Soup",
     price: "$7.95",
     description: "Chicken, prawn and vegetables.",
-    imageSrc: "/images/namaste-special-soup.jpg", // Replace with your image URL
+    imageSrc: "/images/namaste-special-soup.jpeg", // Replace with your image URL
     imageAlt: "Namaste Special Soup",
   },
 ];

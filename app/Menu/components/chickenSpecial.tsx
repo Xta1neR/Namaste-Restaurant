@@ -31,7 +31,7 @@ const chickenLeftColumn: ChickenSpecialty[] = [
     title: "Kadai Chicken",
     price: "$16.95",
     description: "Boneless pieces of chicken breast cooked with green chillies, tomatoes, green peppers, onions & ginger tempered with coriander seeds.",
-    imageSrc: "/images/kadai-chicken.jpg", // Replace with your image URL
+    imageSrc: "/images/kadai-chicken.jpeg", // Replace with your image URL
     imageAlt: "Kadai Chicken",
   },
   {
@@ -59,14 +59,14 @@ const chickenLeftColumn: ChickenSpecialty[] = [
     title: "Chicken Saffron Curry",
     price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a creamy saffron sauce with onion & exotic spices.",
-    imageSrc: "/images/chicken-saffron-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/chicken-saffron-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Saffron Curry",
   },
   {
     title: "Chicken Royal Curry",
     price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a tomato onion sauce with touch of korma sauce and exotic spices.",
-    imageSrc: "/images/chicken-royal-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/chicken-royal-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Royal Curry",
   },
 ];
@@ -76,7 +76,7 @@ const chickenRightColumn: ChickenSpecialty[] = [
     title: "Chicken Vindaloo",
     price: "$16.95",
     description: "Boneless pieces of chicken breast cooked in a tangy sauce with potatoes, vinegar a speciality of Goa.",
-    imageSrc: "/images/chicken-vindaloo.jpg", // Replace with your image URL
+    imageSrc: "/images/chicken-vindaloo.jpeg", // Replace with your image URL
     imageAlt: "Chicken Vindaloo",
   },
   {
@@ -97,14 +97,14 @@ const chickenRightColumn: ChickenSpecialty[] = [
     title: "Chicken Mango Curry",
     price: "$16.95",
     description: "Cooked in mango sauce and herbs with broccoli and mild spice.",
-    imageSrc: "/ images/Chicken Mango Curry.jpg", // Replace with your image URL
+    imageSrc: "/images/Chicken-Mango-Curry.jpg", // Replace with your image URL
     imageAlt: "Chicken Mango Curry",
   },
   {
     title: "Green Chicken Curry",
     price: "$16.95",
     description: "Cooked with cashew nut, mint, spinach, cilantro, green peppers & herbs.",
-    imageSrc: "/images/green-chicken-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/green-chicken-curry.jpeg", // Replace with your image URL
     imageAlt: "Green Chicken Curry",
   },
   {
@@ -118,7 +118,7 @@ const chickenRightColumn: ChickenSpecialty[] = [
     title: "Chicken Do Pyaza",
     price: "$16.95",
     description: "Boneless meat cooked with onion, ginger & garlic gravy, royal spices and sautéed diced onion and cilantro.",
-    imageSrc: "/images/chicken-do-pyaza.jpg", // Replace with your image URL
+    imageSrc: "/images/chicken-do-pyaza.jpeg", // Replace with your image URL
     imageAlt: "Chicken Do Pyaza",
   },
   {

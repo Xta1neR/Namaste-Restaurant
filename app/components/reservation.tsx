@@ -31,7 +31,7 @@ const Reservation = () => {
           </div>
           <a href="https://www.qooway.com/OLO/m-en?NamasteSalmonArm" target="_blank">
           <button className="mt-8 md:mt-0 bg-[#d18a44] text-black text-lg tracking-widest font-semibold py-4 px-10 uppercase hover:brightness-110 transition">
-            Order Now
+            Order Online
           </button>
           </a>
         </div>

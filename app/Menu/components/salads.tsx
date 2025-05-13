@@ -17,14 +17,14 @@ const saladsLeftColumn: Salad[] = [
     title: "Caesar Salad",
     price: "$10.95",
     description: "Romaine lettuce tossed with Caesar dressing & crunchy croutons. Sprinkled with freshly grated parmesan.",
-    imageSrc: "/images/caesar-salad.jpg", // Replace with your image URL
+    imageSrc: "/images/ceaser-salad.jpeg", 
     imageAlt: "Caesar Salad",
   },
   {
     title: "Greek Salad",
     price: "$10.95",
     description: "Diced tomato, cucumber, feta cheese, red onion, pepper olives & Greek dressing.",
-    imageSrc: "/images/greek-salad.jpg", // Replace with your image URL
+    imageSrc: "/images/greek-salad.jpg", 
     imageAlt: "Greek Salad",
   },
 ];
@@ -34,14 +34,14 @@ const saladsRightColumn: Salad[] = [
     title: "Indian Salad",
     price: "Starter Size $7.00 / Entree Size $10.95",
     description: "Freshly sliced carrots, tomatoes, cucumbers & onions.",
-    imageSrc: "/images/indian-salad.jpg", // Replace with your image URL
+    imageSrc: "/images/indian-salad.jpeg", 
     imageAlt: "Indian Salad",
   },
   {
     title: "Garden Salad",
     price: "Starter Size $7.00 / Entree Size $10.95",
     description: "Freshly cut romaine, diced cucumber, tomatoes, carrots, onion, with lemonade dressing.",
-    imageSrc: "/images/garden-salad.jpg", // Replace with your image URL
+    imageSrc: "/images/garden-salad.jpeg", 
     imageAlt: "Garden Salad",
   },
 ];

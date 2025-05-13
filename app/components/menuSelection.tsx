@@ -25,7 +25,7 @@ const MenuSelection = () => {
     <div className="flex flex-col items-center text-center">
 
         <Image
-         src={"https://storage.googleapis.com/a1aa/image/2354bbd9-2077-4870-795c-867a6b847946.jpg"}
+         src={"/1.jpg"}
             alt="Appetizer dish with chips, sauce drizzled on top, and some nuts on a black plate on a black background"
             width={400}
             height={400}
@@ -42,7 +42,7 @@ const MenuSelection = () => {
     <div className="flex flex-col items-center text-center">
 
         <Image
-         src={"https://storage.googleapis.com/a1aa/image/edc7296f-ba97-4fb7-8544-3ad5dbaa3f32.jpg"}
+         src={"/2.jpg"}
             alt="Main dish steak with herbs on a black plate on a dark textured background"
             width={400}
             height={400}
@@ -53,13 +53,13 @@ const MenuSelection = () => {
       Main Dish
      </h3>
      <p className="text-xs text-[#d9b37a]">
-      Steaks / Grills / Pasta
+      Chicken / Grills / Prawns
      </p>
     </div>
     <div className="flex flex-col items-center text-center">
 
         <Image
-         src={"https://storage.googleapis.com/a1aa/image/76a3ba37-b271-4f41-1f02-0169d7cf735a.jpg"}
+         src={"/3.jpg"}
             alt="Dessert with ice cream, whipped cream, a spoon, and glasses with amber liquid on a black surface"
             width={400}
             height={400}
@@ -70,7 +70,7 @@ const MenuSelection = () => {
       Dessert
      </h3>
      <p className="text-xs text-[#d9b37a]">
-      Ice Cream / Cake / Pudding
+      Ice Cream / Sweets / Pudding
      </p>
     </div>
    </div>

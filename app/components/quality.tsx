@@ -24,7 +24,7 @@ const Quality = () => {
       <div className="flex flex-col md:flex-row mt-20 mx-auto gap-16 p-5 md:p-0 w-[90vw]">
         <div className="md:w-1/2">
           <Image
-            src="/quality-img.jpg"
+            src="/sample4.jpg"
             alt="Our Story"
             width={1050}
             height={1050}

@@ -45,7 +45,7 @@ const desserts: Dessert[] = [
     title: "Ice Cream",
     price: "$6.50",
     description: "Mango, strawberry, vanilla or chocolate.",
-    imageSrc: "/images/ice-cream.jpg", // Replace with your image URL
+    imageSrc: "/images/icecream.webp", // Replace with your image URL
     imageAlt: "Ice Cream",
   },
 ];

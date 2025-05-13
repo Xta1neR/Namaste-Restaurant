@@ -18,7 +18,7 @@ const sharingPlatesLeftColumn: SharingPlate[] = [
     price: "$23.95",
     description:
       "Two pieces of each: Tandoori Chicken, Garlic Chicken Tikka, Saffron Chicken Tikka, green chicken tikka, fish and prawns, all barbecued in our clay oven and served with mint chutney.",
-    imageSrc: "/images/namaste-special-set.jpg", // Replace with your image URL
+    imageSrc: "/images/Tandoori Delight.jpg", // Replace with your image URL
     imageAlt: "Namaste Special Set",
   },
   {

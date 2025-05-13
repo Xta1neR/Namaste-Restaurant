@@ -45,7 +45,7 @@ const biryaniSpecialties: BiryaniSpecialty[] = [
     title: "Namaste Special Biryani",
     price: "$19.95",
     description: "A special mix of fresh vegetables, lamb, chicken & prawns.",
-    imageSrc: "/images/namaste-special-biryani.jpg", // Replace with your image URL
+    imageSrc: "/images/namaste-special-biryani.jpeg", // Replace with your image URL
     imageAlt: "Namaste Special Biryani",
   },
 ];

@@ -61,7 +61,7 @@ const tandooriSizzlersRightColumn: TandooriSizzler[] = [
     price: "$18.95",
     description:
       "Basa fish marinated with ginger, garlic and exotic Indian spices. Cooked in our Indian clay oven & served with mint chutney. Served on rice.",
-    imageSrc: "/images/tandoori-fish-tikka.jpg", // Replace with your image URL
+    imageSrc: "/images/tandoori-fish-tikka.jpeg", // Replace with your image URL
     imageAlt: "Tandoori Fish Tikka",
   },
   {
@@ -69,7 +69,7 @@ const tandooriSizzlersRightColumn: TandooriSizzler[] = [
     price: "$19.95",
     description:
       "Tiger prawns marinated with ginger, garlic & exotic Indian spices. Cooked in our Indian clay oven and served with mint chutney. Served on rice.",
-    imageSrc: "/images/tandoori-prawns-tikka.jpg", // Replace with your image URL
+    imageSrc: "/images/tandoori-prawns-tikka.jpeg", // Replace with your image URL
     imageAlt: "Tandoori Prawns Tikka",
   },
 ];

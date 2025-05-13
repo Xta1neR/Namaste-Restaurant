@@ -8,11 +8,13 @@ import Story from "./components/story";
 import MenuSelection from "./components/menuSelection";
 import Reservation from "./components/reservation";
 import Footer from "./components/footer";
+import PopupNotice from "./components/PopupNotice";
 
 
 export default function Home() {
   return (
     <div className="bg-[#130f0c]">
+      <PopupNotice />
       <Header />
       <Hero />
       <Quote />

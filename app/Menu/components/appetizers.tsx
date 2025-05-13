@@ -89,7 +89,7 @@ const appetizersRightColumn: Appetizer[] = [
     title: "Fish and Chips (1pcs/2pcs)",
     price: "$11.95 / $15.95",
     description: "2 pieces of crispy battered cod served with fries and tartar sauce.",
-    imageSrc: "/images/fish-and-chips.jpg",
+    imageSrc: "/images/fish-and-chips.jpeg",
     imageAlt: "Fish and Chips",
   },
   {
@@ -103,7 +103,7 @@ const appetizersRightColumn: Appetizer[] = [
     title: "Chole Samosas Chat",
     price: "$10.95",
     description: "Two savory samosas topped with chickpeas masala and served with chutney.",
-    imageSrc: "/images/chole-samosas-chat.jpg",
+    imageSrc: "/images/chole-samosas-chat.webp",
     imageAlt: "Chole Samosas Chat",
   },
 ];

@@ -38,7 +38,7 @@ const seafoodLeftColumn: SeafoodSpecialty[] = [
     title: "Traditional Prawn Curry",
     price: "$17.95",
     description: "Prawns cooked in an onion & tomato sauce with ground spices.",
-    imageSrc: "/images/traditional-prawn-curry.jpg", // Replace with your image URL
+    imageSrc: "/images/traditional-prawn-curry.jpeg", // Replace with your image URL
     imageAlt: "Traditional Prawn Curry",
   },
   {
@@ -62,14 +62,14 @@ const seafoodRightColumn: SeafoodSpecialty[] = [
     title: "Fish Vindaloo",
     price: "$17.95",
     description: "Basa cooked with potatoes in a tangy sauce with coconut & vinegar.",
-    imageSrc: "/images/fish-vindaloo.jpg", // Replace with your image URL
+    imageSrc: "/images/fish-vindaloo.jpeg", // Replace with your image URL
     imageAlt: "Fish Vindaloo",
   },
   {
     title: "Fish Masala",
     price: "$17.95",
     description: "Basa cooked with fresh onions & bell pepper in a thick gravy.",
-    imageSrc: "/images/fish-masala.jpg", // Replace with your image URL
+    imageSrc: "/images/fish-masala.jpeg", // Replace with your image URL
     imageAlt: "Fish Masala",
   },
   {

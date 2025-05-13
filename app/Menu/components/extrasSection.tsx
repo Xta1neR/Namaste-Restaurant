@@ -17,28 +17,28 @@ const extras: Extra[] = [
     title: "Papadum",
     price: "$3.00",
     description: "Crispy lentil wafers served as a side.",
-    imageSrc: "/images/papadum.jpg", // Replace with your image URL
+    imageSrc: "/images/papadum.jpeg", // Replace with your image URL
     imageAlt: "Papadum",
   },
   {
     title: "Mixed Pickle",
     price: "$3.95",
     description: "A blend of pickled vegetables for a tangy flavor.",
-    imageSrc: "/images/mixed-pickle.jpg", // Replace with your image URL
+    imageSrc: "/images/mixed-pickle.jpeg", // Replace with your image URL
     imageAlt: "Mixed Pickle",
   },
   {
     title: "Raita",
     price: "$4.95",
     description: "A cooling yogurt side dish with spices.",
-    imageSrc: "/images/raita.jpg", // Replace with your image URL
+    imageSrc: "/images/raita.webp", // Replace with your image URL
     imageAlt: "Raita",
   },
   {
     title: "Mango Chutney",
     price: "$2.95",
     description: "Sweet and tangy mango chutney.",
-    imageSrc: "/images/mango-chutney.jpg", // Replace with your image URL
+    imageSrc: "/images/mango-chutney.jpeg", // Replace with your image URL
     imageAlt: "Mango Chutney",
   },
   {
@@ -59,7 +59,7 @@ const extras: Extra[] = [
     title: "Add Chicken",
     price: "$4.95",
     description: "Add chicken to your dish for extra protein.",
-    imageSrc: "/images/add-chicken.jpg", // Replace with your image URL
+    imageSrc: "/images/add-chicken.jpeg", // Replace with your image URL
     imageAlt: "Add Chicken",
   },
   {
@@ -73,7 +73,7 @@ const extras: Extra[] = [
     title: "Add Prawns",
     price: "$5.95",
     description: "Add prawns for a seafood twist.",
-    imageSrc: "/images/add-prawns.jpg", // Replace with your image URL
+    imageSrc: "/images/add-prawns.jpeg", // Replace with your image URL
     imageAlt: "Add Prawns",
   },
   {
@@ -87,7 +87,7 @@ const extras: Extra[] = [
     title: "Side of Red Onions",
     price: "$2.95",
     description: "Add a side of fresh red onions.",
-    imageSrc: "/images/side-red-onions.jpg", // Replace with your image URL
+    imageSrc: "/images/side-red-onions.jpeg", // Replace with your image URL
     imageAlt: "Side of Red Onions",
   },
 ];

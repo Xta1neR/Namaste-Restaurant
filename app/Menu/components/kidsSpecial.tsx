@@ -17,7 +17,7 @@ const kidsSpecialitiesLeftColumn: KidsSpeciality[] = [
     title: "Fries",
     price: "$7.95",
     description: "French fries served with ketchup.",
-    imageSrc: "/images/fries.jpg", // Replace with your image URL
+    imageSrc: "/images/fries.webp", // Replace with your image URL
     imageAlt: "Fries",
   },
   {
@@ -41,7 +41,7 @@ const kidsSpecialitiesRightColumn: KidsSpeciality[] = [
     title: "Fish & Chips 1pcs/2pcs",
     price: "$11.95 / $15.95",
     description: "2 pieces of crispy battered cod served with fries and tartar sauce.",
-    imageSrc: "/images/fish-and-chips.jpg", // Replace with your image URL
+    imageSrc: "/images/fish-and-chips.jpeg", // Replace with your image URL
     imageAlt: "Fish & Chips",
   },
 ];
