@@ -28,6 +28,14 @@ const Hero = () => {
             Explore Menu
           </button>
         </a>
+        <a
+          href="https://www.qooway.com/OLO/m-en?NamasteSalmonArm"
+          target="_blank"
+        >
+          <button className="px-4 py-2 mt-12 text-2xl text-black font-extralight bg-[#d29a5a] hover:bg-transparent border-2 border-[#d29a5a] transition duration-300 ease-in-out hover:text-white cursor-pointer">
+            Order Online
+          </button>
+        </a>
       </div>
     </div>
   );
