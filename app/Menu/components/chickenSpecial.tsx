@@ -15,56 +15,56 @@ interface ChickenSpecialty {
 const chickenLeftColumn: ChickenSpecialty[] = [
   {
     title: "Chicken Tikka Masala (CTM)",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast barbequed & simmered in a thick gravy with onions, fresh tomatoes & herbs finished with fresh ginger & cilantro.",
     imageSrc: "/images/Chicken Tikka Masala.jpg", // Replace with your image URL
     imageAlt: "Chicken Tikka Masala",
   },
   {
     title: "Butter Chicken",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless chicken breast marinated in ginger & garlic cooked in a special butter tomato sauce.",
     imageSrc: "/images/Butter Chicken.jpg", // Replace with your image URL
     imageAlt: "Butter Chicken",
   },
   {
     title: "Kadai Chicken",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast cooked with green chillies, tomatoes, green peppers, onions & ginger tempered with coriander seeds.",
     imageSrc: "/images/kadai-chicken.jpeg", // Replace with your image URL
     imageAlt: "Kadai Chicken",
   },
   {
     title: "Curry Chicken",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless chicken breast pieces cooked in onion tomato sauce with ground spices.",
     imageSrc: "/images/curry-chicken.jpg", // Replace with your image URL
     imageAlt: "Curry Chicken",
   },
   {
     title: "Palak Chicken",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless chicken breast cooked with chopped spinach and freshly ground spices.",
     imageSrc: "/images/palak-chicken.jpg", // Replace with your image URL
     imageAlt: "Palak Chicken",
   },
   {
     title: "Chilli Chicken",
-    price: "$16.95",
+    price: "$17.95",
     description: "Chicken breast cooked with bell peppers, onion & exotic Indian spices.",
     imageSrc: "/images/Chilly Chicken.jpg", // Replace with your image URL
     imageAlt: "Chilli Chicken",
   },
   {
     title: "Chicken Saffron Curry",
-    price: "$17.95",
+    price: "$18.95",
     description: "Boneless pieces of chicken breast delicately cooked in a creamy saffron sauce with onion & exotic spices.",
     imageSrc: "/images/chicken-saffron-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Saffron Curry",
   },
   {
     title: "Chicken Royal Curry",
-    price: "$17.95",
+    price: "$18.95",
     description: "Boneless pieces of chicken breast delicately cooked in a tomato onion sauce with touch of korma sauce and exotic spices.",
     imageSrc: "/images/chicken-royal-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Royal Curry",
@@ -74,56 +74,56 @@ const chickenLeftColumn: ChickenSpecialty[] = [
 const chickenRightColumn: ChickenSpecialty[] = [
   {
     title: "Chicken Vindaloo",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast cooked in a tangy sauce with potatoes, vinegar a speciality of Goa.",
     imageSrc: "/images/chicken-vindaloo.jpeg", // Replace with your image URL
     imageAlt: "Chicken Vindaloo",
   },
   {
     title: "Chicken Coconut Curry",
-    price: "$17.95",
+    price: "$18.95",
     description: "Boneless chicken breast cooked in a coconut cream & royal spices.",
     imageSrc: "/images/Coconut Chicken Curry.jpg", // Replace with your image URL
     imageAlt: "Chicken Coconut Curry",
   },
   {
     title: "Chicken Shahi Korma",
-    price: "$17.95",
+    price: "$18.95",
     description: "Boneless pieces of chicken breast delicately cooked in a seasoned cream sauce with onions and ground cashew nuts.",
     imageSrc: "/images/chicken-shahi-korma.jpg", // Replace with your image URL
     imageAlt: "Chicken Shahi Korma",
   },
   {
     title: "Chicken Mango Curry",
-    price: "$16.95",
+    price: "$17.95",
     description: "Cooked in mango sauce and herbs with broccoli and mild spice.",
     imageSrc: "/images/Chicken-Mango-Curry.jpg", // Replace with your image URL
     imageAlt: "Chicken Mango Curry",
   },
   {
     title: "Green Chicken Curry",
-    price: "$16.95",
+    price: "$17.95",
     description: "Cooked with cashew nut, mint, spinach, cilantro, green peppers & herbs.",
     imageSrc: "/images/green-chicken-curry.jpeg", // Replace with your image URL
     imageAlt: "Green Chicken Curry",
   },
   {
     title: "Chicken Madras Curry",
-    price: "$16.95",
+    price: "$17.95",
     description: "Chicken pieces cooked in onion, tomato, coconut sauce and spices. Tempered with mustard seeds.",
     imageSrc: "/images/chicken-madras-curry.jpg", // Replace with your image URL
     imageAlt: "Chicken Madras Curry",
   },
   {
     title: "Chicken Do Pyaza",
-    price: "$16.95",
+    price: "$17.95",
     description: "Boneless meat cooked with onion, ginger & garlic gravy, royal spices and sautéed diced onion and cilantro.",
     imageSrc: "/images/chicken-do-pyaza.jpeg", // Replace with your image URL
     imageAlt: "Chicken Do Pyaza",
   },
   {
     title: "Chicken Black Pepper",
-    price: "$17.95",
+    price: "$18.95",
     description: "Boneless pieces of chicken breast delicately cooked in a creamy sauce with onion and exotic spices.",
     imageSrc: "/images/Chicken Black Pepper.jpg", // Replace with your image URL
     imageAlt: "Chicken Black Pepper",
