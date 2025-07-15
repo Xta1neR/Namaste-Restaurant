@@ -60,7 +60,7 @@ const Footer = () => {
           </a>
         </nav>
         <p className="text-xs text-[#f9f9f9]">
-          @  © 2025 Namaste Authentic Indian Cuisine.&nbsp;All rights reserved.&nbsp;
+           © 2025 Namaste Authentic Indian Cuisine.&nbsp;All rights reserved.&nbsp;
   Managed by <a href="https://www.manndigital.ca" target="_blank" rel="noopener">Mann.Digital</a>
           <a className="text-[#130f0c] hover:text-amber-100" href="https://www.riturajportfolio.live/">
             <br />Developed by Rituraj Goswami
