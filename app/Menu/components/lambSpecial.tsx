@@ -36,14 +36,14 @@ const lambLeftColumn: LambSpecialty[] = [
   },
   {
     title: "Palak Gosh (Lamb)",
-    price: "$19.95",
+    price: "$18.95",
     description: "Boneless lamb cooked with blanched spinach & Indian spices in an onion & tomato sauce.",
     imageSrc: "/images/palak-gosh.jpeg", // Replace with your image URL
     imageAlt: "Palak Gosh",
   },
   {
     title: "Lamb Rogan Josh",
-    price: "$19.95",
+    price: "$18.95",
     description: "Boneless lamb cooked in onion, ginger & garlic. A signature recipe of Kashmiri cuisine.",
     imageSrc: "/images/lamb-rogan-josh.jpg", // Replace with your image URL
     imageAlt: "Lamb Rogan Josh",
@@ -67,14 +67,14 @@ const lambLeftColumn: LambSpecialty[] = [
 const lambRightColumn: LambSpecialty[] = [
   {
     title: "Lamb Coconut Curry",
-    price: "$19.95",
+    price: "$18.95",
     description: "Boneless lamb cooked in a coconut cream sauce with Indian spices.",
     imageSrc: "/images/lamb-coconut-curry.jpeg", // Replace with your image URL
     imageAlt: "Lamb Coconut Curry",
   },
   {
     title: "Lamb Shahi Korma",
-    price: "$19.95",
+    price: "$18.95",
     description: "Boneless lamb cooked delicately in a seasoned sauce made with cashews, onions, tomatoes & cream.",
     imageSrc: "/images/lamb-shahi-korma.jpeg", // Replace with your image URL
     imageAlt: "Lamb Shahi Korma",
