@@ -57,14 +57,14 @@ const chickenLeftColumn: ChickenSpecialty[] = [
   },
   {
     title: "Chicken Saffron Curry",
-    price: "$18.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a creamy saffron sauce with onion & exotic spices.",
     imageSrc: "/images/chicken-saffron-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Saffron Curry",
   },
   {
     title: "Chicken Royal Curry",
-    price: "$18.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a tomato onion sauce with touch of korma sauce and exotic spices.",
     imageSrc: "/images/chicken-royal-curry.jpeg", // Replace with your image URL
     imageAlt: "Chicken Royal Curry",
@@ -81,14 +81,14 @@ const chickenRightColumn: ChickenSpecialty[] = [
   },
   {
     title: "Chicken Coconut Curry",
-    price: "$18.95",
+    price: "$17.95",
     description: "Boneless chicken breast cooked in a coconut cream & royal spices.",
     imageSrc: "/images/Coconut Chicken Curry.jpg", // Replace with your image URL
     imageAlt: "Chicken Coconut Curry",
   },
   {
     title: "Chicken Shahi Korma",
-    price: "$18.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a seasoned cream sauce with onions and ground cashew nuts.",
     imageSrc: "/images/chicken-shahi-korma.jpg", // Replace with your image URL
     imageAlt: "Chicken Shahi Korma",
@@ -123,7 +123,7 @@ const chickenRightColumn: ChickenSpecialty[] = [
   },
   {
     title: "Chicken Black Pepper",
-    price: "$18.95",
+    price: "$17.95",
     description: "Boneless pieces of chicken breast delicately cooked in a creamy sauce with onion and exotic spices.",
     imageSrc: "/images/Chicken Black Pepper.jpg", // Replace with your image URL
     imageAlt: "Chicken Black Pepper",
