@@ -31,8 +31,8 @@ const Footer = () => {
         <div className="flex items-center space-x-3 max-w-xs">
             <FontAwesomeIcon icon={faClock} className="size-8 text-[#d17e2a]" />
           <div className="text-[#f9f9f9] text-sm leading-6">
-            <p>Open 11:00 am Everyday</p>
-            <p>Closes 09:00 pm Everyday</p>
+            <p>Open Monday to Friday 11:00 am to 9:00 pm</p>
+            <p>Open Saturday and Sunday 11:30 am to 9:00 pm</p>
             {/* <p>Closed on Tuesdays</p> */}
           </div>
         </div>
