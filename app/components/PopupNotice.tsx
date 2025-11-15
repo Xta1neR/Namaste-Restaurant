@@ -33,7 +33,7 @@ export default function PopupNotice() {
           <ul className="text-base mb-4 space-y-1">
             <li><strong>Small rice:</strong> $3.0</li>
             <li><strong>Large rice:</strong> $4.0</li>
-            <li><strong>Closed on :</strong> Tuesday0</li>
+            <li><strong>Closed on Tuesday0</li>
           </ul>
           <button
             onClick={() => setShow(false)}
