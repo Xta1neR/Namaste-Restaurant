@@ -6,7 +6,7 @@ export default function PopupNotice() {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
-    setShow(true);
+    setShow(false);
   }, []);
 
   if (!show) return null;
